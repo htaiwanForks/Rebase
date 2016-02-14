@@ -3,3 +3,4 @@ Edit 2 from upstream/master
 Edit 3 from upstream/master
 Edit 1 from fork/featurebranch
 
+Edit 2 from fork/featurebranch
