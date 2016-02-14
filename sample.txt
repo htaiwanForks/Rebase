@@ -9,3 +9,4 @@ Edit 4 from fork/featurebranch
 modify Edit 2 from fork/featurebranch
 modify Edit 3 from fork/featurebranch
 
+Edit 4 from upstream/master
